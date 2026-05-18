@@ -1,0 +1,44 @@
+# Personal
+
+> AI agentic wellbeing and healthcare superapp. Health that finally knows you.
+
+Personal combines a continuous AI health companion with a dedicated human GP — the same doctor every time, not a random on-call service. The platform monitors HealthKit, wearables, labs, and EHR data in real-time, detects health trends before they become symptoms, and handles the logistics of healthcare autonomously (appointments, prescriptions, lab orders, insurance). A licensed GP sees the AI-digested patient context before every interaction, enabling continuous primary care at consumer prices.
+
+## What makes Personal different
+
+- **Continuous + dedicated**: The only platform with both always-on AI monitoring AND a dedicated human GP who knows you
+- **Agentic**: AI books appointments, refills Rx, orders labs, files insurance claims — without you asking
+- **Longitudinal data moat**: Years of HealthKit, wearables, labs, and visit history unified into one health graph
+- **Concierge at consumer price**: Same quality as $3K–$10K/year concierge medicine, at consumer subscription prices
+
+## Features
+
+- **Always-on monitoring**: HealthKit, Garmin, Oura, Whoop, Dexcom, labs, EHR — unified health graph
+- **Proactive alerts**: AI detects declining trends and notifies your GP automatically
+- **Clinical reports**: Professional-grade health summaries, shareable with any provider
+- **Agentic actions**: Appointments, Rx refills, lab orders, insurance claims
+- **Dedicated GP**: Same licensed doctor every time, async messaging + video
+- **Family plan**: One GP who knows your whole family
+
+## Pricing
+
+- **Free**: HealthKit sync, weekly AI summary, health score, 1 clinical report/month
+- **Plus** ($9/mo): Real-time alerts, unlimited reports, agentic actions, unlimited AI chat
+- **Premium** ($29/mo): Multi-AI consensus, predictive risk modeling, mental health, nutrition AI, GoodRx
+- **Care** ($79/mo): Everything in Premium + dedicated licensed GP, unlimited async, 2 video visits/month
+- **Family** ($79 base + $35/member): Care for the whole family, shared or separate GPs
+- **Access** ($0): Full Premium free for Medicaid, veterans, students, SNAP/WIC, healthcare workers, low-income
+
+## Technology
+
+- iOS-native app (Swift/SwiftUI)
+- HealthKit integration (16 data types → FHIR R4)
+- FHIR R4 data layer, HIPAA-compliant
+- AI synthesis via Claude (Anthropic)
+- Telemedicine via HIPAA-compliant video
+
+## Links
+
+- Website: https://personal.g-a-l-a-c-t-i-c.com
+- Pricing: https://personal.g-a-l-a-c-t-i-c.com/#pricing
+- For providers: https://personal.g-a-l-a-c-t-i-c.com/#providers
